@@ -1,0 +1,7 @@
+2024-10-06 20:09:26,682 p=5128 u=ec2-user n=ansible | 172.31.16.215 | SUCCESS => {
+    "ansible_facts": {
+        "discovered_interpreter_python": "/usr/bin/python3.7"
+    },
+    "changed": false,
+    "ping": "pong"
+}
